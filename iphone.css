@@ -1,0 +1,16 @@
+body {
+	font-family: Helvetica;
+	margin: 0px;
+	padding: 0px;
+}
+
+h1 {
+	font-size: 3em;
+	color: lime;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: none;
+	margin-top: 200px;
+	display: block;
+	text-shadow: 1px 1px 2px #000;
+}
